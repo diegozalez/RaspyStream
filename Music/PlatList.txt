@@ -1,0 +1,4 @@
+ffconcat version 1.0
+file 'song1.wav'
+file 'song2.wav'
+file 'song3.wav'
