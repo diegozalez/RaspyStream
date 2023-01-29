@@ -1,0 +1,2 @@
+URL=<Your URL>
+Key=<Your stream key>
