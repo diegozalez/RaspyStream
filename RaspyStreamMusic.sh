@@ -41,10 +41,11 @@ Height=1080
 Bitrate=4500000
 
 # Set stream URL
-URL=
+URL=$(awk -F"[=;]" '/URL/{print $2}' keys.txt)
 
 # Set stream key
-Key=
+Key=$(awk -F"[=;]" '/Key/{print $2}' keys.txt)
+
 
 # For a test stream on Twitch
 #Test=?bandwidthtest=true  # Test stream
