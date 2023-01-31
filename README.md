@@ -18,7 +18,15 @@ This project consists of 3 scripts made for streaming without audio, with music,
 - Microphone, music playlist, or blank audio options.
 - Bitrate adjustable for compromise bandwidth 
 
+# Dependecies
+This has been tested on:
+- Raspberry Pi 4B
+- Camera module v3 Wide and normal
+- Raspberry Pi OS Lite(64-bit), Kernel: 5.15, Debian: 11 (bullseye)
+- Ffmpeg library v4.3.5
+
 # Instructions 
+First of all download the Ffmpeg.
 Modify the keys.txt with the URL and private key from twitch, then you can use the ScreenIt.sh script to run it in a screen session or just use any of the RaspyStream*.sh 
 Modify the keys.txt with the URL and private key from twitch, then you can use the ScreenIt.sh script to run it in a screen session or just use any of the RaspyStream*.sh, all the files are documented so you can change parameter like the resolution, the HDR or the bitrate easyli.
 
