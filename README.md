@@ -16,9 +16,11 @@ This project consists of 3 scripts made for streaming without audio, with music,
 # Instructions 
 Modify the keys.txt with the URL and private key from twitch, then you can use the ScreenIt.sh script to run it in a screen session or just use any of the RaspyStream*.sh 
 
-![aLogo RaspyStream](./assets/complete.png)
-![aLogo RaspyStream](./assets/photo1674749579.jpeg)
-![aLogo RaspyStream](./assets/photo1675070115.jpeg)
+
+
+![aLogo RaspyStream](./assets/complete.png | width=100)
+![aLogo RaspyStream](./assets/photo1674749579.jpeg | width=90)
+![aLogo RaspyStream](./assets/photo1675070115.jpeg | width=80)
 
 
 # Contact
