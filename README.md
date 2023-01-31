@@ -1,4 +1,5 @@
-![aLogo RaspyStream](./assets/Logo.png)
+<img src="./assets/Logo.png" width=100% />
+
 # RaspyStream
 This is a simple-to-use tool to stream on Twitch or other streaming services from a Raspberry Pi and the new camera module v3. There are a lot of projects like this online the problem is that most of them use the old Raspivid which is not supported anymore, that's why I created this project adapting old programs to the new Libcam library.
 You can check a step-by-step gide on mi instructables <a href="https://www.instructables.com/RaspyStream/">RaspiStream </a>
