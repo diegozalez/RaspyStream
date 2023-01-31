@@ -7,7 +7,7 @@
 This is a simple-to-use tool to stream on Twitch or other streaming services from a Raspberry Pi and the new camera module v3. There are a lot of projects like this online the problem is that most of them use the old Raspivid which is not supported anymore, that's why I created this project adapting old programs to the new Libcam library.
 You can check a step-by-step gide on mi instructables <a href="https://www.instructables.com/RaspyStream/">RaspiStream </a>
 
-<img src="./assets/complete.png" width=44% /> <img src="./assets/photo1675070115.jpeg" width=24.7% /> <img src="./assets/photo1674749579.jpeg" width=24.7% />
+<img src="./assets/complete.png" width=44% /> <img src="./assets/photo1675070115.jpeg" width=24.8% /> <img src="./assets/photo1674749579.jpeg" width=24.8% />
 # Info
 This project consists of 3 scripts made for streaming without audio, with music, and with a microphone all from the Raspberry Pi, there is also a script name ScreenIt.sh that will run the stream in a screen session.
 
