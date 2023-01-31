@@ -6,13 +6,14 @@ You can check a step-by-step gide on mi instructables <a href="https://www.instr
 # Info
 This project consists of 3 scripts made for streaming without audio, with music, and with a microphone all from the Raspberry Pi, there is also a script name ScreenIt.sh that will run the stream in a screen session.
 
-#Key-features
+# Key-features
 - 1080p 30fps Stream.
 - HDR option.
 - Autofocus.
 - Microphone, music playlist, or blank audio options.
 - Bitrate adjustable for compromise bandwidth 
 
+# Instructions
 
 # Contact
 I will be happy to discuss the proyect or any questions here or in my socials
