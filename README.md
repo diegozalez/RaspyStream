@@ -19,13 +19,15 @@ Modify the keys.txt with the URL and private key from twitch, then you can use t
 Modify the keys.txt with the URL and private key from twitch, then you can use the ScreenIt.sh script to run it in a screen session or just use any of the RaspyStream*.sh, all the files are documented so you can change parameter like the resolution, the HDR or the bitrate easyli.
 
 - RaspyStreamMusic.sh: This script plays .wav files in the Music folder to run it first upload all your wav files to the folder Music then modify the file Playlist.txt and write the name of your files just like the example songs. It will be played in the order and you can repeat the files, once it finishes all it will start again, note that the default songs are blank.
-- RaspyStreamMic.sh: This script is for conecting a microphone, you will need to edit the script in line 62 where is says "InputA=3,0" change it to what the comand
-$ arecord -l gives you for example if you get:
-'''
+- RaspyStreamMic.sh: This script is for conecting a microphone, you will need to edit the script in line 62 where is says "InputA=3,0" change it to what the comand 
+```
+$ arecord -l 
+```
+```
 **** List of CAPTURE Hardware Devices **** 
 card 3: U188 [U-188], device 0: USB Audio [USB Audio] 
 Subdevices: 1/1 Subdevice #0: subdevice #0 
-'''
+```
 you wil have to write : "InputA=3,0" 
 
 # Contact
