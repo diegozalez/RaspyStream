@@ -3,6 +3,7 @@
 This is an updated tool to stream with the new Libcamera-vid to an RTPM server like Twitch at 1080p 30fps
 You can check a step-by-step gide on mi instructables <a href="https://www.instructables.com/RaspyStream/">RaspiStream </a>
 
+<img src="./assets/complete.png" height="350" /> <img src="./assets/photo1675070115.jpeg" height="350" /> <img src="./assets/photo1674749579.jpeg" height="350" />
 # Info
 This project consists of 3 scripts made for streaming without audio, with music, and with a microphone all from the Raspberry Pi, there is also a script name ScreenIt.sh that will run the stream in a screen session.
 
@@ -16,7 +17,6 @@ This project consists of 3 scripts made for streaming without audio, with music,
 # Instructions 
 Modify the keys.txt with the URL and private key from twitch, then you can use the ScreenIt.sh script to run it in a screen session or just use any of the RaspyStream*.sh 
 
-<img src="./assets/complete.png" height="350" /> <img src="./assets/photo1675070115.jpeg" height="350" /> <img src="./assets/photo1674749579.jpeg" height="350" />
 
 # Contact
 I will be happy to discuss the proyect or any questions here or in my socials
