@@ -1,6 +1,6 @@
 ![aLogo RaspyStream](./assets/Logo.png)
 # RaspyStream
-This is an updated tool to stream with the new Libcamera-vid to an RTPM server like Twitch at 1080p 30fps
+This is a simple-to-use tool to stream on Twitch or other streaming services from a Raspberry Pi and the new camera module v3. There are a lot of projects like this online the problem is that most of them use the old Raspivid which is not supported anymore, that's why I created this project adapting old programs to the new Libcam library.
 You can check a step-by-step gide on mi instructables <a href="https://www.instructables.com/RaspyStream/">RaspiStream </a>
 
 <img src="./assets/complete.png" height="350" /> <img src="./assets/photo1675070115.jpeg" height="350" /> <img src="./assets/photo1674749579.jpeg" height="350" />
