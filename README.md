@@ -27,7 +27,7 @@ This has been tested on:
 
 # Instructions Local
 
-Edit the script RaspyStreamLocal.sh and place the IP address of your rtmp server on it. for info about how to set up a local RTMP server check the <a href="https://www.instructables.com/RaspyStream/">instructables </a>
+Edit the script RaspyStreamLocal.sh and place the IP address of your rtmp server on it. For info about how to set up a local RTMP server check the <a href="https://www.instructables.com/RaspyStream/">instructables </a>
 
 # Instructions Twitch
 First of all download the Ffmpeg.
