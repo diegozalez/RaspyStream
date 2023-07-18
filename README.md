@@ -25,7 +25,11 @@ This has been tested on:
 - Raspberry Pi OS Lite(64-bit), Kernel: 5.15, Debian: 11 (bullseye)
 - Ffmpeg library v4.3.5
 
-# Instructions 
+# Instructions Local
+
+Edit the script RaspyStreamLocal.sh and place the IP address of your rtmp server on it. for info about how to set up a local RTMP server check the <a href="https://www.instructables.com/RaspyStream/">instructables </a>
+
+# Instructions Twitch
 First of all download the Ffmpeg.
 Modify the keys.txt with the URL and private key from twitch, then you can use the ScreenIt.sh script to run it in a screen session or just use any of the RaspyStream*.sh 
 Modify the keys.txt with the URL and private key from twitch, then you can use the ScreenIt.sh script to run it in a screen session or just use any of the RaspyStream*.sh, all the files are documented so you can change parameter like the resolution, the HDR or the bitrate easyli.
