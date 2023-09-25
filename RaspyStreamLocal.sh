@@ -34,7 +34,7 @@ Height=1080
 Bitrate=3500000
 
 #The ip addres of your MonaServer
-ip=*ENTER IP ADDRES*
+ip=*ENTER IP ADDRES/live*
 
 # The preset for FFmpeg options fast, veryfast, ultrafast
 Preset=veryfast
@@ -48,7 +48,7 @@ libcamera-vid -n -t 0 --width $Width --height $Height --hdr $HDR --inline -b $Bi
 ffmpeg -re -f lavfi -i anullsrc -c:a aac -r 30 \
 -i - -g 60 \
 -strict experimental -vcodec copy -map 0:a -map 1:v -b:v $Bitrate -preset veryfast -f \
-flv "${ip}/live"
+flv "${ip}"
 
 # The code follows this steps:
 # - Capture video from camera
